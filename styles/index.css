@@ -27,7 +27,7 @@ nav a {
 header{
     padding: 40px;
     /* background-color: rgb(99, 167, 167); */
-    background-image: url(/welcome.png);
+    background-image: url(../image/welcome.png);
     height: 530px;
     background-size: cover;
 background-repeat: no-repeat;
